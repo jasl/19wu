@@ -27,7 +27,7 @@ if RUBY_VERSION =~ /1.9/
 end
 
 gem 'rails', '~> 4.0.0'
-gem 'slim-rails', '~> 1.1.1'
+gem 'slim-rails', '~> 2.0.0'
 gem 'simple_form', '~> 3.0.0.rc'
 gem 'html-pipeline'
 # html-pipeline depends on escape_utils, lock its version for Windows
