@@ -87,6 +87,8 @@ group :development do
   gem 'guard-delayed', github: 'jasl/guard-delayed'
   gem 'guard-rails'
   gem 'guard-zeus'
+
+  # Export state_machine transition diagram
   gem 'ruby-graphviz', :require => 'graphviz'
 end
 
